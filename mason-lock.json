@@ -1,1 +1,1 @@
-{"bricks":{"hello":"0.1.0+1"}}
+{"bricks":{"hello":"0.1.0+1","mason_show_confirm_modal":{"path":"./bricks/mason_show_confirm_modal"}}}
