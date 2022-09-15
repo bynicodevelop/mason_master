@@ -2,3 +2,5 @@ bricks:
   hello: 0.1.0+1
   mason_show_confirm_modal:
     path: ./bricks/mason_show_confirm_modal
+  mason_settings_screen:
+    path: ./bricks/mason_settings_screen
