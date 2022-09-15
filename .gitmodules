@@ -1,3 +1,6 @@
 [submodule "bricks/mason_show_confirm_modal"]
 	path = bricks/mason_show_confirm_modal
 	url = git@github.com:bynicodevelop/mason_show_confirm_modal.git
+[submodule "bricks/mason_settings_screen"]
+	path = bricks/mason_settings_screen
+	url = git@github.com:bynicodevelop/mason_settings_screen.git
