@@ -4,3 +4,12 @@
 [submodule "bricks/mason_settings_screen"]
 	path = bricks/mason_settings_screen
 	url = git@github.com:bynicodevelop/mason_settings_screen.git
+[submodule "bricks/mason_notifiers"]
+	path = bricks/mason_notifiers
+	url = git@github.com:bynicodevelop/mason_notifiers.git
+[submodule "bricks/mason_repository"]
+	path = bricks/mason_repository
+	url = git@github.com:bynicodevelop/mason_repository.git
+[submodule "bricks/mason_about_screen"]
+	path = bricks/mason_about_screen
+	url = git@github.com:bynicodevelop/mason_about_screen.git
